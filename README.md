@@ -18,12 +18,12 @@
 
 ## Просмотр документации
 
-1. Install Ruby: `brew install ruby`
-2. Install Bundler globally: `sudo gem install bundler --no-user-install`
-3. Clone the repo
-4. Install dependencies: `bundle install`
-5. Launch the project from local server: `bundle exec jekyll serve`
-6. Visit `http://127.0.0.1:4000`
+1. Устанвить Ruby: `brew install ruby`
+2. Установить глобально Bundler: `sudo gem install bundler --no-user-install`
+3. Клонируйте репозитарий
+4. Установите зависимости: `bundle install`
+5. Запустите локальный сервер проекта: `bundle exec jekyll serve`
+6. Смотрите на `http://127.0.0.1:4000`
 
 ## Каточки для Anki
 
