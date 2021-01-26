@@ -1,22 +1,22 @@
-# 程序员英语词汇宝典
+# Словарь английского языка программиста
 
-![most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words/workflows/most-frequent-technology-english-words/badge.svg?branch=master)
+![most-frequent-technology-english-words](https://github.com/r3code/most-frequent-technology-english-words/badge.svg?branch=master)
 
-本列表中的单词是英语类计算机书籍、文档、文章中高频常见的技术词汇，也是程序员工作中常见的英语词汇，最终目的是希望程序员集合自身的英语基础，在掌握列表中的词汇后，可以无障碍阅读英语技术文章和文档。
+Слова в этом списке - это часто встречающаяся общая техническая лексика в английских книгах об информационных технологиях, документах и статьях, а также в работе программистов. Надеемся, что программисты соберут свой собственный базовый английский словарь и овладеют этим словарем. Это поможет читать технические статьи и документы на английском языке без препятствий. 
 
-官网：https://learn-english.dev/
 
-## 贡献
+## Исправление ошибок и добавление новых слов
 
-- 如发现有错误翻译，或者更合适的翻译，也可以通过 Pull Request 来更新列表（单词列表在 `_posts` 文件夹里）
-- 请按照单词首字母顺序进行更新
-- 单词首字母请小写，翻译请使用中文标点符号
+- Если вы увидели неправильный перевод или нашли более подходящий перевод, вы можете обновить список слов создав Pull Request (список слов находится в папке `_posts`)
+- Пожалуйста, обновляйте в алфавитном порядке
+- Пишите слова с строчных букв 
 
-## Feature Request
 
-- 请直接提 issue 来增加需要添加的新功能或单词列表
+## Запрос новых возможностей
 
-## Get Started
+- Пожалуйста, поднимите вопрос, чтобы добавить новые возможности или списки слов
+
+## Просмотр документации
 
 1. Install Ruby: `brew install ruby`
 2. Install Bundler globally: `sudo gem install bundler --no-user-install`
@@ -25,6 +25,6 @@
 5. Launch the project from local server: `bundle exec jekyll serve`
 6. Visit `http://127.0.0.1:4000`
 
-## Anki 记忆卡片
+## Каточки для Anki
 
-- [程序员英语词汇宝典记忆卡片](most-frequent-technology-english-words.apkg)
+- [Набор карточек для запоминания "Словарь английского языка программиста"](most-frequent-technology-english-words.apkg)
